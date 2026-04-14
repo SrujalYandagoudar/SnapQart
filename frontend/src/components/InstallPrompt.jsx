@@ -65,8 +65,8 @@ export function InstallPrompt() {
     <div className="fixed bottom-6 left-4 right-4 z-[9999] animate-in fade-in slide-in-from-bottom-8 duration-500">
       <div className="bg-brand-900 text-white p-5 rounded-3xl shadow-2xl border border-white/10 backdrop-blur-xl flex flex-col gap-4 relative overflow-hidden group">
         {/* Decorative Gradient Background */}
-        <div className="absolute top-0 right-0 -mr-16 -mt-16 w-32 h-32 bg-brand-500/20 blur-3xl rounded-full" />
-        <div className="absolute bottom-0 left-0 -ml-8 -mb-8 w-24 h-24 bg-brand-400/20 blur-2xl rounded-full" />
+        {/* <div className="absolute top-0 right-0 -mr-16 -mt-16 w-32 h-32 bg-brand-500/20 blur-3xl rounded-full" />
+        <div className="absolute bottom-0 left-0 -ml-8 -mb-8 w-24 h-24 bg-brand-400/20 blur-2xl rounded-full" /> */}
 
         <div className="flex items-start gap-4">
           <div className="w-12 h-12 bg-white/10 rounded-2xl flex items-center justify-center shrink-0 border border-white/5">
